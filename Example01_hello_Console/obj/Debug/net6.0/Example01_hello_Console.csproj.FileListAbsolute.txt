@@ -1,0 +1,15 @@
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\bin\Debug\net6.0\Example01_hello_Console.exe
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\bin\Debug\net6.0\Example01_hello_Console.deps.json
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\bin\Debug\net6.0\Example01_hello_Console.runtimeconfig.json
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\bin\Debug\net6.0\Example01_hello_Console.dll
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\bin\Debug\net6.0\Example01_hello_Console.pdb
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\Example01_hello_Console.csproj.AssemblyReference.cache
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\Example01_hello_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\Example01_hello_Console.AssemblyInfoInputs.cache
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\Example01_hello_Console.AssemblyInfo.cs
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\Example01_hello_Console.csproj.CoreCompileInputs.cache
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\Example01_hello_Console.dll
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\refint\Example01_hello_Console.dll
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\Example01_hello_Console.pdb
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\Example01_hello_Console.genruntimeconfig.cache
+C:\Users\комп\Desktop\First_lection_C_Sharp\Example01_hello_Console\obj\Debug\net6.0\ref\Example01_hello_Console.dll
